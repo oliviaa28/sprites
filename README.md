@@ -24,16 +24,16 @@ Here’s a preview of some tree parts and full tree sprites included in this rep
 
 
 ### 1. **Full Tree Sprite**
-   ![Full Tree](mode2copac_fara_umbra.png)  
+   ![Full Tree](model2copac_fara_umbra.png)  
    _A fully assembled tree created from available parts, great for any outdoor scene._
 
 ### 2. **Customizable Tree Components**
    - **Type 1**:
-   -  ![Branches](copac1.png)
+      ![Branches](copac1.png)
    - **Type 2**:
-   -  ![Leaves](copac2.png)
+      ![Leaves](copac2.png)
    - **Type 3**:
-   -  ![Roots](copac3.png)
+      ![Roots](copac3.png)
 ---
 
 ## 🎨 Tips for Custom Trees
