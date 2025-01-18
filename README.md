@@ -28,9 +28,12 @@ Here’s a preview of some tree parts and full tree sprites included in this rep
    _A fully assembled tree created from available parts, great for any outdoor scene._
 
 ### 2. **Customizable Tree Components**
-   - **Type 1**: ![Branches](copac1.png)
-   - **Type 2**: ![Leaves](copac2.png)
-   - **Type 3**: ![Roots](copac3.png)
+   - **Type 1**:
+   -  ![Branches](copac1.png)
+   - **Type 2**:
+   -  ![Leaves](copac2.png)
+   - **Type 3**:
+   -  ![Roots](copac3.png)
 ---
 
 ## 🎨 Tips for Custom Trees
